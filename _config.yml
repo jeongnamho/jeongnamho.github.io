@@ -11,12 +11,11 @@ rdiscount:
   extensions: [smart]
 
 # This is the default base url path.
-# BASE_PATH : http://meliodus.github.io/    원래 있던거...
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://gitblogdemo.github.io/" # the base hostname & protocol for your site
+url: "https://jeongnamho.github.io/" # the base hostname & protocol for your site
 
 # Website title.
-title : talk2ankan<small>Introvert Geek Diaries</small>
+title : Wellcome2Namho'room<small>Mathematical Data Science & Development</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]
@@ -37,20 +36,20 @@ permalink: /:title
 ###########################
 author:
 # Info
-  name: Ankan Biswas
+  name: Namho Jeong
   role: Computer Programmer
-  email: meliodus@tutanota.com
-  image: images/ankan.png
+  email: jnh7807@snu.ac.kr
+  image: images/jeongnamho.jpg
 # Social
-  github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  soundcloud: meliodus
-  reddit: talk2ankan
+  github: https://github.com/jeongnamho
+  # twitter: talk2ankan
+  # facebook: talk2ankan
+  # soundcloud: meliodus
+  # reddit: talk2ankan
 #  About
   about: "Salutation, this is my-space my-world. I dream , i hallucinate, i am curious and ambitious."
 # copyright
-  copyright: "Some rights reserved &#169; 2015 Ankan Biswas."
+  copyright: "Some rights reserved &#169; 2020 Namho Jeong."
 
 # Disable custom plugins,and ignore symbolic links..
 # For more see: http://jekyllrb.com/docs/configuration/
