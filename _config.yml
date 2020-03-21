@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jeongnamho.github.io/" # the base hostname & protocol for your site
 
 # Website title.
-title : Wellcome2Namho'room<small>Mathematical Data Science & Development</small>
+title : Welcome2Namho'room<small>Mathematical Data Science & Development</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]
@@ -41,7 +41,7 @@ author:
   email: jnh7807@snu.ac.kr
   image: images/jeongnamho.jpg
 # Social
-  github: https://github.com/jeongnamho
+  github: "https://github.com/jeongnamho"
   # twitter: talk2ankan
   # facebook: talk2ankan
   # soundcloud: meliodus
