@@ -6,7 +6,7 @@ port:        4000
 highligher:  true
 
 # Build settings
-markdown:    rdiscount
+markdown:    kramdown
 rdiscount:
   extensions: [smart]
 
@@ -15,7 +15,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jeongnamho.github.io/" # the base hostname & protocol for your site
 
 # Website title.
-title : Welcome2Namho'room<small>Mathematical Data Science & Development</small>
+title : Namho's room<small>Mathematical Data Science & Development</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]

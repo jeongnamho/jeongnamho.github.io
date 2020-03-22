@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Introvert Geek Diaries ~ Ankan Biswas on the internet</title>
+ <title>Fundamental Curiocity</title>
  <link href="{{ site.BASE_PATH }}talk2ankan.xml" rel="self"/>
  <link href="{{ site.BASE_PATH }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.BASE_PATH }}</id>
  <author>
-   <name>Ankan Biswas</name>
+   <name>Namho jeong</name>
    <email>support@ankanbiswas.in</email>
  </author>
 
