@@ -6,16 +6,22 @@ port:        4000
 highligher:  true
 
 # Build settings
+# rdiscount:
+#   extensions: [smart]
 markdown:    kramdown
-rdiscount:
-  extensions: [smart]
+kramdown:
+  footnote_backlink: '&#x21a9;&#xfe0e;'
+  math_engine:       mathjax
+  math_engine_opts:
+    preview:         true
+    preview_as_code: true
 
 # This is the default base url path.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://jeongnamho.github.io/" # the base hostname & protocol for your site
 
 # Website title.
-title : Namho's room<small>Mathematical Data Science & Development</small>
+title : Fundamental Curiocity<small>Mathematical Data Science & Development</small>
 
 # label listing. [create labels for category in folder `_label`]
 # social listing. [create labels for social in folder `_label`]
