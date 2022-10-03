@@ -19,8 +19,7 @@ Thanks to Corey_, Dhrubajyoti_ and Dan_ for their awesome work which i followed 
 Snapshots - Desktop
 ---------------------------------------
 
-.. image:: atmos-plus-0.png
-.. image:: atmos-plus-1.png
+.. image:: Main.png
 
 License
 =======
