@@ -51,7 +51,9 @@ author:
   copyright: "Some rights reserved &#169; 2022 Namho, Jeong."
 # Disqus
 layout: default
-comments: true
+provider: "disqus"
+shortname: "jeongnamho-github-io.disqus.com" # 블로그 댓글기능
+# comments: true
 # other options
 
 # disqus: Ture
